@@ -1,0 +1,13 @@
+{
+  "name": "bot-tamaten",
+  "version": "1.0.0",
+  "description": "Telegram Bot",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
